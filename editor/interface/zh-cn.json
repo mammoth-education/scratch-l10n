@@ -520,5 +520,6 @@
     "gui.sharedMessages.replaceProjectWarning": "是否丢弃当前作品中尚未保存的内容？",
     "gui.sharedMessages.loadFromComputerTitle": "从电脑中打开",
     "gui.gui.defaultProjectTitle": "Scratch作品",
+    "gui.gui.myProjects": "我的作品",
     "ble.unknownDevice": "未知设备"
 }
