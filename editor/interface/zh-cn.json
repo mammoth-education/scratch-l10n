@@ -60,7 +60,7 @@
     "gui.connection.flash-firmware": "烧录固件",
     "gui.connection.flash-firmware-success": "烧录固件成功",
     "gui.connection.flash-firmware-success-tips": "烧录固件成功！搜索这个设备吧！",
-    "gui.connection.scan-for-it": "搜索设备",
+    "gui.connection.scan-for-it": "搜索设codeTab备",
     "gui.connection.flash-firmware-error": "烧录固件失败",
     "gui.connection.flash-firmware-error-tips": "请确保设备已经链接电脑，然后重试。",
     "gui.connection.curren-version": "当前版本: ",
@@ -531,5 +531,7 @@
     "gui.sharedMessages.loadFromComputerTitle": "从电脑中打开",
     "gui.gui.defaultProjectTitle": "Scratch作品",
     "gui.gui.myProjects": "我的作品",
+    "gui.userProjectModel.openCode": "打开",
+    "gui.userProjectModel.delete": "删除",
     "ble.unknownDevice": "未知设备"
 }
