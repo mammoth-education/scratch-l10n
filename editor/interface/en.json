@@ -250,6 +250,9 @@
     "gui.alerts.cloudInfo": "Please note, cloud variables only support numbers, not letters or symbols. {learnMoreLink}",
     "gui.alerts.cloudInfoLearnMore": "Learn more.",
     "gui.alerts.importing": "Importing…",
+    "gui.defaultProject.hello": "Hello!",
+    "gui.defaultProject.happy": "So happy",
+    "gui.defaultProject.angry": "I'm angry[○･｀Д´･ ○]",
     "gui.defaultProject.meow": "Meow",
     "gui.defaultProject.variable": "my variable",
     "gui.menuBar.modeMenu": "Mode",
@@ -456,6 +459,8 @@
     "gui.extension.wedo2.connectingMessage": "Connecting",
     "gui.extension.gdxfor.description": "Sense push, pull, motion, and spin.",
     "gui.extension.gdxfor.connectingMessage": "Connecting",
+    "gui.extension.kaka.name": "Kaka",
+    "gui.extension.kaka.description": "Kaka building block kit",
     "gui.libraryTags.all": "All",
     "gui.libraryTags.animals": "Animals",
     "gui.libraryTags.dance": "Dance",
@@ -509,5 +514,9 @@
     "gui.sharedMessages.pop": "pop",
     "gui.sharedMessages.replaceProjectWarning": "Replace contents of the current project?",
     "gui.sharedMessages.loadFromComputerTitle": "Load from your computer",
-    "gui.gui.defaultProjectTitle": "Scratch Project"
+    "gui.gui.defaultProjectTitle": "Scratch Project",
+    "gui.userProjectModel.openCode": "Open",
+    "gui.project.deleteTips":"Are you sure to delete the selected data?"
+    
+
 }

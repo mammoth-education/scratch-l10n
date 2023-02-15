@@ -534,5 +534,6 @@
     "gui.gui.myProjects": "我的作品",
     "gui.userProjectModel.openCode": "打开",
     "gui.userProjectModel.delete": "删除",
-    "ble.unknownDevice": "未知设备"
+    "ble.unknownDevice": "未知设备",
+    "gui.project.deleteTips":"你确定删除所选数据？"
 }
