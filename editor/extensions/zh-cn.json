@@ -225,7 +225,7 @@
     "kaka.getSoundLevel": "声音强度",
     "kaka.whenButton": "当按键[BUTTON][STATE]",
     "kaka.getButtonState": "按键[BUTTON]的状态",
-    "kaka.ifButtonState": "按键[BUTTON][STATE]",
+    "kaka.ifButtonPressed": "按下按键[BUTTON]？",
     "kaka.buzzerPlayNoteFor": "蜂鸣器 播放音符[NOTE]持续[DURATION]秒",
     "kaka.buzzerStop": "蜂鸣器 停止播放",
     "kaka.ultrasonicDistance": "超声波传感器 距离(cm) [PORT]",
