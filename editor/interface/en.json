@@ -115,6 +115,7 @@
     "gui.menuBar.new": "New",
     "gui.menuBar.file": "File",
     "gui.menuBar.downloadToComputer": "Save to your computer",
+    "gui.menuBar.mobileDownloadToComputer": "Save to your equipment",
     "gui.menuBar.edit": "Edit",
     "gui.menuBar.turboModeOff": "Turn off Turbo Mode",
     "gui.menuBar.turboModeOn": "Turn on Turbo Mode",
@@ -514,6 +515,7 @@
     "gui.sharedMessages.pop": "pop",
     "gui.sharedMessages.replaceProjectWarning": "Replace contents of the current project?",
     "gui.sharedMessages.loadFromComputerTitle": "Load from your computer",
+    "gui.sharedMessages.loadFromHeaders": "Load from your headers",
     "gui.gui.defaultProjectTitle": "Scratch Project",
     "gui.userProjectModel.openCode": "Open",
     "gui.project.deleteTips":"Are you sure to delete the selected data?"
