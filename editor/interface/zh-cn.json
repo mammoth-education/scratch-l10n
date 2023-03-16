@@ -246,7 +246,7 @@
     "gui.extensionLibrary.chooseAnExtension": "选择一个扩展",
     "gui.extensionLibrary.extensionUrl": "键入扩展的URL",
     "gui.monitors.importListColumnPrompt": "使用第几列（1-{numberOfColumns}）？",
-    "gui.recordingStep.alertMsg": "无法启动录音",
+    "gui.recordingStep.alertMsg": "无法启动录音，请重试!",
     "gui.soundLibrary.chooseASound": "选择一个声音",
     "gui.soundTab.fileUploadSound": "上传声音",
     "gui.soundTab.surpriseSound": "随机",
@@ -537,5 +537,6 @@
     "gui.userProjectModel.openCode": "打开",
     "gui.userProjectModel.delete": "删除",
     "ble.unknownDevice": "未知设备",
-    "gui.project.deleteTips":"你确定删除所选数据？"
+    "gui.project.deleteTips":"你确定删除所选数据？",
+    "gui.bluetooth.alert":"需要打开您的位置信息权限。"
 }

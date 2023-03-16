@@ -230,7 +230,7 @@
     "gui.extensionLibrary.chooseAnExtension": "Choose an Extension",
     "gui.extensionLibrary.extensionUrl": "Enter the URL of the extension",
     "gui.monitors.importListColumnPrompt": "Which column should be used (1-{numberOfColumns})?",
-    "gui.recordingStep.alertMsg": "Could not start recording",
+    "gui.recordingStep.alertMsg": "Could not start recording, please try again!",
     "gui.soundLibrary.chooseASound": "Choose a Sound",
     "gui.soundTab.fileUploadSound": "Upload Sound",
     "gui.soundTab.surpriseSound": "Surprise",
@@ -518,7 +518,8 @@
     "gui.sharedMessages.loadFromHeaders": "Load from your headers",
     "gui.gui.defaultProjectTitle": "Scratch Project",
     "gui.userProjectModel.openCode": "Open",
-    "gui.project.deleteTips":"Are you sure to delete the selected data?"
+    "gui.project.deleteTips":"Are you sure to delete the selected data?",
+    "gui.bluetooth.alert":"You need to turn on your location information permission."
     
 
 }
