@@ -263,6 +263,7 @@
     "gui.alerts.creatingError": "无法创建作品。 请再试一次！",
     "gui.alerts.duplicateNames": "项目名称重复。 请再试一次！",
     "gui.alerts.deletedSuccessfully": "删除成功！",
+    "gui.alerts.characterLimit": "输入字符过长，请重新输入！",
     "gui.alerts.savingError": "作品未能保存。",
     "gui.alerts.savesuccess": "作品已保存。",
     "gui.alerts.saving": "正在保存作品……",

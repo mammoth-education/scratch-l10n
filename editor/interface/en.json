@@ -247,6 +247,7 @@
     "gui.alerts.creatingError": "Could not create the project. Please try again!",
     "gui.alerts.duplicateNames": "Item name duplicated. Please try again!",
     "gui.alerts.deletedSuccessfully": "Deleted successfully！",
+    "gui.alerts.characterLimit": "Enter too many characters, please re-enter！",
     "gui.alerts.savingError": "Project could not save.",
     "gui.alerts.savesuccess": "Project saved.",
     "gui.alerts.saving": "Saving project…",
