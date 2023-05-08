@@ -541,5 +541,6 @@
     "gui.userProjectModel.delete": "删除",
     "ble.unknownDevice": "未知设备",
     "gui.project.deleteTips":"你确定删除所选数据？",
-    "gui.bluetooth.alert":"需要打开您的位置信息权限。"
+    "gui.positioning.alert":"需要打开您的位置信息权限。",
+    "gui.bluetooth.alert":"蓝牙未开启,是否前往开启?"
 }

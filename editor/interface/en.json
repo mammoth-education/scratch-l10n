@@ -522,7 +522,8 @@
     "gui.gui.defaultProjectTitle": "My Project",
     "gui.userProjectModel.openCode": "Open",
     "gui.project.deleteTips":"Are you sure to delete the selected data?",
-    "gui.bluetooth.alert":"You need to turn on your location information permission."
+    "gui.positioning.alert":"You need to turn on your location information permission.",
+    "gui.bluetooth.alert":"Bluetooth is not turned on, do you want to turn it on?"
     
 
 }
