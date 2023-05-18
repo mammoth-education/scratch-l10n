@@ -1,5 +1,5 @@
 {
-    "gui.alerts.lostPeripheralConnection": "Scratch与{extensionName}的连接已断开。",
+    "gui.alerts.lostPeripheralConnection": "Mammthon与{extensionName}的连接已断开。",
     "gui.alerts.tryAgain": "重试",
     "gui.alerts.download": "下载",
     "gui.connection.reconnect": "重新连接",
@@ -263,7 +263,7 @@
     "gui.alerts.creatingError": "无法创建作品。 请再试一次！",
     "gui.alerts.duplicateNames": "项目名称重复。 请再试一次！",
     "gui.alerts.deletedSuccessfully": "删除成功！",
-    "gui.alerts.characterLimit": "输入字符过长，请重新输入！",
+    "gui.alerts.characterLimit": "输入的字符数不能超过15个，请重新输入。",
     "gui.alerts.savingError": "作品未能保存。",
     "gui.alerts.savesuccess": "作品已保存。",
     "gui.alerts.saving": "正在保存作品……",
@@ -542,5 +542,8 @@
     "ble.unknownDevice": "未知设备",
     "gui.project.deleteTips":"你确定删除所选数据？",
     "gui.positioning.alert":"需要打开您的位置信息权限。",
-    "gui.bluetooth.alert":"蓝牙未开启,是否前往开启?"
+    "gui.bluetooth.alert":"蓝牙未开启,是否前往开启?",
+    "gui.about.title":"关于我们",
+    "gui.about.version": "版本：",
+    "gui.about.app": "长毛象编程"
 }

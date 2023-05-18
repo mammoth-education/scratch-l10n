@@ -247,7 +247,7 @@
     "gui.alerts.creatingError": "Could not create the project. Please try again!",
     "gui.alerts.duplicateNames": "Item name duplicated. Please try again!",
     "gui.alerts.deletedSuccessfully": "Deleted successfully！",
-    "gui.alerts.characterLimit": "Enter too many characters, please re-enter！",
+    "gui.alerts.characterLimit": "The number of characters entered cannot exceed 15, please re-enter.",
     "gui.alerts.savingError": "Project could not save.",
     "gui.alerts.savesuccess": "Project saved.",
     "gui.alerts.saving": "Saving project…",
@@ -523,7 +523,10 @@
     "gui.userProjectModel.openCode": "Open",
     "gui.project.deleteTips":"Are you sure to delete the selected data?",
     "gui.positioning.alert":"You need to turn on your location information permission.",
-    "gui.bluetooth.alert":"Bluetooth is not turned on, do you want to turn it on?"
+    "gui.bluetooth.alert":"Bluetooth is not turned on, do you want to turn it on?",
+    "gui.about.title":"About Us",
+    "gui.about.version": "Version：",
+    "gui.about.app": "Mammoth Coding"
     
 
 }
