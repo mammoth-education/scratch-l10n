@@ -545,5 +545,7 @@
     "gui.bluetooth.alert":"蓝牙未开启,是否前往开启?",
     "gui.about.title":"关于我们",
     "gui.about.version": "版本：",
-    "gui.about.app": "长毛象编程"
+    "gui.about.app": "长毛象编程",
+    "gui.downloadApp": "前往下载",
+    "gui.checking": "正在检查"
 }

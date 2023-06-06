@@ -52,6 +52,8 @@
     "gui.connection.unavailable.tryagainbutton": "Try again",
     "gui.connection.unavailable.helpbutton": "Help",
     "gui.controls.go": "Go",
+    "gui.connection.latest-version": "Latest Version: ",
+    "gui.connection.check-for-updates": "Check updates",
     "gui.controls.stop": "Stop",
     "gui.crashMessage.label": "Oops! Something went wrong.",
     "gui.crashMessage.description": "We are so sorry, but it looks like MammothCoding has crashed.  Please refresh your page to try again.",
@@ -526,7 +528,7 @@
     "gui.bluetooth.alert":"Bluetooth is not turned on, do you want to turn it on?",
     "gui.about.title":"About Us",
     "gui.about.version": "Version：",
-    "gui.about.app": "Mammoth Coding"
-    
-
+    "gui.about.app": "Mammoth Coding",
+    "gui.downloadApp": "Download",
+    "gui.checking": "Checking"
 }
