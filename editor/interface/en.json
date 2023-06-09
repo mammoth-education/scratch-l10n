@@ -47,6 +47,7 @@
     "gui.connection.scanning.noPeripheralsFound": "No devices found",
     "gui.connection.scanning.instructions": "Select your device in the list above.",
     "gui.connection.search": "Refresh",
+    "gui.connection.helpfulTips": "Scan the QR code to view the help page",
     "gui.connection.unavailable.installscratchlink": "Make sure you have Scratch Link installed and running",
     "gui.connection.unavailable.enablebluetooth": "Check that Bluetooth is enabled",
     "gui.connection.unavailable.tryagainbutton": "Try again",
