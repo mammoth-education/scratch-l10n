@@ -54,6 +54,7 @@
     "gui.connection.input-no": "未修改",
     "gui.connection.set-device-password": "设备密码",
     "gui.connection.set-device-WIFI": "WIFI设置",
+    "gui.connection.scan-wifi": "正在搜索...",
     "gui.connection.scanning.lookingforperipherals": "正在查找设备",
     "gui.connection.scanning.noPeripheralsFound": "没有发现任何设备",
     "gui.connection.scanning.instructions": "选择上面列出的设备。",
