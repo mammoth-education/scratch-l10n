@@ -271,6 +271,7 @@
     "galaxyRVR.obstacleAvoidance.IRLeft": "左侧 IR 的状态",
     "galaxyRVR.obstacleAvoidance.IRRight": "右侧 IR 的状态",
     "galaxyRVR.rudder.angle": "设置舵机角度为 [VALUE] 度",
+    "galaxyRVR.rudder.servoAngle": "舵机角度",
     "galaxyRVR.rudder.addAngle": "舵机角度增加 [VALUE] 度",
     "galaxyRVR.lightColor": "显示 [COLOR]",
     "galaxyRVR.lightColor.time": "显示 [COLOR] [DURATION] 秒",
