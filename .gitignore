@@ -10,3 +10,4 @@ npm-*
 
 # generated build files
 /dist
+._*
