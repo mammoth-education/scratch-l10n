@@ -598,7 +598,7 @@
     "ble.unknownDevice": "未知设备",
     "gui.project.deleteTips": "你确定删除所选数据？",
     "gui.positioning.alert": "需要打开您的位置信息权限。",
-    "gui.bluetooth.alert": "蓝牙未开启,是否前往开启?",
+    "gui.bluetooth.alert": "蓝牙已关闭。请前往“设置”打开，以便连接设备。",
     "gui.about.title": "关于我们",
     "gui.about.version": "版本：",
     "gui.about.app": "长毛象编程",

@@ -536,7 +536,7 @@
     "gui.userProjectModel.openCode": "Open",
     "gui.project.deleteTips": "Are you sure to delete the selected data?",
     "gui.positioning.alert": "You need to turn on your location information permission.",
-    "gui.bluetooth.alert": "Bluetooth is not turned on, do you want to turn it on?",
+    "gui.bluetooth.alert": "Bluetooth is off. Please go to Settings to turn it on and connect your device.",
     "gui.about.title": "About Us",
     "gui.about.version": "Version：",
     "gui.about.app": "Mammoth Coding",
