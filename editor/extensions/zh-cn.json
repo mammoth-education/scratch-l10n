@@ -380,6 +380,7 @@
     "piCarX.whenButtonPress": "当USR按钮被按下时",
     "piCarX.isButtonPress": "USR按键被按下?",
     "piCarX.aiState": "AI状态",
+    "piCarX.setAiModel": "AI初始化 [PROVIDER] [MODEL]",
     "piCarX.lastHeard": "最近听到的语句",
     "piCarX.aiAnswer": "AI 回答",
     "piCarX.thoughtfulAnswers": "思考的答案",
