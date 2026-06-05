@@ -43,6 +43,7 @@
     "gui.connection.error.helpbutton": "Help",
     "gui.connection.peripheral-name-label": "Device name",
     "gui.connection.connect": "Connect",
+    "gui.connection.zeusCarCalibrationComplete": "Please click the “Confirm” button to begin calibrating the device.",
     "gui.connection.calibrationComplete": "Calibration Complete",
     "gui.connection.calibrating": "Calibrating",
     "gui.connection.calibrationInterrupted": "Calibration interrupted, please recalibrate!",

@@ -55,6 +55,7 @@
     "gui.connection.calibrate-device": "校准",
     "gui.connection.calibrate-test": "测试",
     "gui.connection.calibrate-retrieve": "读取",
+    "gui.connection.zeusCarCalibrationComplete": "请点击确认按钮开始校准设备",
     "gui.connection.calibrationComplete": "校准完成!",
     "gui.connection.calibrating": "校准中...",
     "gui.connection.calibrationInterrupted": "校准中断,请重新校准!",
